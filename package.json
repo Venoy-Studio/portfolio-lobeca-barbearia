@@ -1,7 +1,7 @@
 {
   "name": "lobeca-barbearia-portfolio",
   "version": "1.0.0",
-  "description": "Clone exato e completo da Lobeca Barbershop",
+  "description": "Portfólio interativo da Lobeca Barbershop em Apucarana",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",

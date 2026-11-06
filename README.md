@@ -1,6 +1,6 @@
 <div align="center">
   <h1>💚 Lobeca Barbershop — Barbearia em Apucarana</h1>
-  <p><strong>Clone exato e completo da Lobeca Barbershop: cortes clássicos, barba com toalha quente, clube de assinaturas e Dia do Noivo.</strong></p>
+  <p><strong>Cortes clássicos e modernos, barba com toalha quente, clube de assinaturas e Dia do Noivo com atendimento VIP.</strong></p>
 
   <p>
     <a href="https://github.com/Venoy-Studio"><img src="https://img.shields.io/badge/Org-Venoy--Studio-00c853?style=for-the-badge&logo=github" alt="Venoy Studio" /></a>
@@ -14,16 +14,16 @@
 
 ## 🌟 Sobre o Projeto
 
-Clone 1:1 exato da **Lobeca Barbershop** (`https://lobeca-barbearia.vercel.app/`), preservando a direção de arte original, tipografia, vídeos de alta fidelidade, carrosséis e fluxo completo de páginas, com dados de contato personalizados.
+Plataforma digital da **Lobeca Barbershop**, barbearia de referência em Apucarana há 11 anos. Interface moderna, imersiva e de alta performance com streaming de vídeo integrado, navegação interativa e sistema de agendamento online.
 
-## ✨ Principais Destaques
+## ✨ Principais Recursos
 
-- **Identidade e Layout 1:1**: Estrutura idêntica ao site de produção original com todas as animações, tipografias e transições preservadas.
-- **Vídeos & Mídias em Alta Fidelidade**: Backgrounds em vídeo (hero vertical, barbeiros, tour pelo salão e reel do noivo) hospedados localmente com streaming de alta velocidade.
-- **Tour pelo Espaço e Carta de Serviços**: Navegação em capítulos pelo salão e seletor completo de barbeiros e serviços.
-- **Clube de Assinantes & Dia do Noivo**: Apresentação dos 12 planos de assinatura mensal e pacotes para noivos.
-- **Páginas Secundárias Incluídas**: `/dia-do-noivo`, `/agendar`, `/cliente` e `/admin`.
-- **Contatos Personalizados**: WhatsApp e dados de contato configurados para atendimento.
+- **Experiência Visual Imersiva**: Vídeos em alta resolução com streaming adaptativo para exibição em desktop e mobile.
+- **Tour pelo Salão**: Navegação interativa por capítulos com visualização completa das bancadas, recepção e lounge.
+- **Carta de Serviços & Barbeiros**: Catálogo de serviços especializados com seleção por profissional.
+- **Clube de Assinantes**: Apresentação detalhada dos 12 planos mensais com consulta direta de benefícios.
+- **Dia do Noivo VIP**: Pacotes exclusivos com sala privativa para noivos e padrinhos.
+- **Atendimento e Agendamentos**: Integração direta com WhatsApp para confirmação imediata de horários.
 
 ## 🚀 Como Executar Localmente
 
@@ -37,5 +37,5 @@ Acesse `http://localhost:3000` no seu navegador.
 
 ## ⛅ Deploy no Cloudflare Pages
 
-Hospedado na CDN global da Cloudflare com custo zero e performance instantânea:
+Hospedado na rede global da Cloudflare:  
 👉 **[https://portfolio-lobeca-barbearia.pages.dev](https://portfolio-lobeca-barbearia.pages.dev)**
