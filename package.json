@@ -1,27 +1,20 @@
 {
-  "name": "lobeca-barbearia",
-  "private": true,
-  "version": "0.0.0",
-  "type": "module",
+  "name": "lobeca-barbearia-portfolio",
+  "version": "1.0.0",
+  "description": "Clone exato e completo da Lobeca Barbershop",
+  "main": "server.js",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "lint": "oxlint",
-    "preview": "vite preview"
+    "start": "node server.js",
+    "dev": "node server.js",
+    "build": "echo 'Static site ready'"
   },
-  "dependencies": {
-    "canvas-confetti": "^1.9.4",
-    "lucide-react": "^1.69.0",
-    "react": "^19.3.1",
-    "react-dom": "^19.3.1"
-  },
-  "devDependencies": {
-    "@tailwindcss/vite": "^4.3.4",
-    "@types/react": "^19.3.0",
-    "@types/react-dom": "^19.3.0",
-    "@vitejs/plugin-react": "^6.1.2",
-    "oxlint": "^1.90.0",
-    "tailwindcss": "^4.3.4",
-    "vite": "^8.3.6"
-  }
+  "keywords": [
+    "portfolio",
+    "barbearia",
+    "barbershop",
+    "nextjs",
+    "venoy-studio"
+  ],
+  "author": "Venoy Studio",
+  "license": "ISC"
 }
