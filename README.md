@@ -2,6 +2,8 @@
 > **Landing Page de Alta Conversão (CRO) & Padrão Anti-AI Slop**  
 > Desenvolvida por [Venoy Studio](https://github.com/Venoy-Studio).
 
+🌐 **Site Online no Cloudflare Pages:** [https://portfolio-lobeca-barbearia.pages.dev](https://portfolio-lobeca-barbearia.pages.dev)
+
 ---
 
 ## 💈 Sobre o Projeto
